@@ -6,7 +6,7 @@ public class RandomNumber {
 	
 	public static long getRandomNumber() {
 		Random num = new Random();
-		long number = num.nextLong(1000000,10000000L);
+		long number = num.nextLong();
 		
 		
 		return number;
