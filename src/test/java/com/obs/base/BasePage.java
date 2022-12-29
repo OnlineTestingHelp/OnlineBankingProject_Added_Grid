@@ -72,7 +72,6 @@ public class BasePage {
 //			cap.setBrowserName("chrome");
 			ChromeOptions co = new ChromeOptions();
 			co.setCapability("platformName", "Windows");
-			//WebDriverManager.chromedriver().setup();
 			driver = new RemoteWebDriver(new URL(HubURL),co);
 		}else if(browser.toLowerCase().contains("firefox")) {
 			FirefoxOptions fo = new FirefoxOptions();
