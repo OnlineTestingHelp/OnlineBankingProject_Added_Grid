@@ -419,3 +419,45 @@
 [INFO ] 2022-12-27 18:01:52.167 [main] AdminLoginPage - Verifying gotoWebSite Link
 [INFO ] 2022-12-27 18:01:56.529 [main] UserHomePage - User Home page is displayed successfully
 [INFO ] 2022-12-27 18:01:56.623 [main] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2022-12-27 20:51:40.912 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-27 20:51:42.259 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-27 20:51:45.837 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-27 20:51:54.820 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-27 20:52:01.173 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-27 20:52:03.646 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-27 20:52:11.747 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-27 20:52:16.034 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-27 20:52:20.351 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-27 20:52:23.481 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-27 20:52:24.858 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-27 20:52:38.040 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-27 20:52:42.260 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-27 20:52:42.433 [main] UserHomePage - Verified deposit happened  successfully
+[INFO ] 2022-12-27 21:36:19.009 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-27 21:36:22.003 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-27 21:36:24.497 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-27 21:36:32.558 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-27 21:36:36.750 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-27 21:36:38.342 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-27 21:36:47.441 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-27 21:36:52.008 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-27 21:36:56.944 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-27 21:37:00.235 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-27 21:37:01.952 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-27 21:37:17.095 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-27 21:37:21.694 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-27 21:37:21.835 [main] UserHomePage - Deposit is not working
+[INFO ] 2022-12-28 07:59:13.077 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-28 07:59:14.340 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-28 07:59:16.565 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-28 07:59:25.114 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-28 07:59:27.773 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-28 07:59:30.317 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-28 07:59:40.447 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-28 07:59:45.484 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-28 07:59:49.814 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2022-12-28 07:59:52.164 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2022-12-28 07:59:53.818 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2022-12-28 08:00:12.895 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2022-12-28 08:00:17.570 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2022-12-28 08:00:17.652 [main] UserHomePage - Verified deposit happened  successfully
